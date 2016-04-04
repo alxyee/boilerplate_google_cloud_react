@@ -1,6 +1,6 @@
 
 {
-  "name": "rtc_dev",
+  "name": "boilerplate",
   "version": "1.0.0",
   "description": "",
   "dependencies": {
@@ -9,7 +9,6 @@
     "immutable": "^3.7.6",
     "jquery": "^2.2.2",
     "koa": "^1.2.0",
-    "koa-cors": "0.0.16",
     "koa-router": "^5.4.0",
     "koa-send": "^3.2.0",
     "koa-static": "^2.0.0",
